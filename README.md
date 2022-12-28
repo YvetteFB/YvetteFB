@@ -4,4 +4,3 @@
 </a>
 </p>
 
-<a href="https://app.daily.dev/_Yvette"><img src="https://api.daily.dev/devcards/cd9a39423537410ea569aa2313183a18.png?r=3j1" width="400" alt="Fiona Yvette Baraza's Dev Card"/></a>
